@@ -25,4 +25,4 @@ A multiplayer competitive quiz game App
 | Alex | Bernhard | Kyrill | Richard |
 | ----------- | ----------- | ----------- | ----------- |
 
-https://reactjs.org/tutorial/tutorial.html 
+https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial
